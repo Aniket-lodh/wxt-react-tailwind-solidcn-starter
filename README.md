@@ -1,6 +1,7 @@
 # WXT + React19 + TailwindCSS4.0 + Shadcn
 
-This template should help get you started developing with React + TailwindCSS + Shadcn in WXT.
+This template should help get you started developing with React + TailwindCSS + Shadcn in WXT.<br>
+[![Use this template](https://img.shields.io/badge/GitHub-Use%20this%20template-green?style=for-the-badge&logo=github)](https://github.com/Aniket-lodh/wxt-react-tailwind-solidcn-starter/generate)
 
 
 ## Getting Started
